@@ -1,4 +1,10 @@
 joblib
-scikit-learn
+numpy
+pandas
 streamlit
+matplotlib
+seaborn
 xgboost
+optuna
+scikit-learn
+ydata-profiling
